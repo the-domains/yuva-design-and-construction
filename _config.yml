@@ -1,0 +1,28 @@
+name: YUVA Design and Construction
+favicon: null
+layout_spectrum: 0.4258484421297908
+typography_spectrum: 0.033147386740893126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6690452888142318
+  lightness: 0.7438026173040271
+  saturation: 0.7118550995364785
+  rhythmicContrast: 0.9147184430621564
+purpose: []
